@@ -2,13 +2,14 @@ body{
   background-color: #92a8d1;
 }
 
-/*
-.welbevinden label{
+
+.welbevinden label {
   display: inline-block;
   padding: 1em;
   background: pink;
   cursor: pointer;
   text-align: center;
+  background-color: pink;
 }
 input[type="radio"]{
   display: block;
